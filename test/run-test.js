@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 /* eslint-disable no-console */
 
 const { spawn } = require('child_process');

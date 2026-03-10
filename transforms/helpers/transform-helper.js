@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 const {
   ACTION_SUPER_EXPRESSION_COMMENT,
   LAYOUT_DECORATOR_LOCAL_NAME,

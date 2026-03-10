@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 import Application from '../app';
 import config from '../config/environment';
 import { setApplication } from '@ember/test-helpers';

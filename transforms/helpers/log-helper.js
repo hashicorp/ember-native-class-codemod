@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 const { createLogger, format, transports } = require('winston');
 const { combine, timestamp, printf } = format;
 

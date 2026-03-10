@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 // Do not transform
 const Foo = EmberObject.extend({
   statefulObject: {},

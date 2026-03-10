@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 import { observer, computed } from "@ember/object";
 import { inject as controller } from "@ember/controller";
 import { inject as service } from "@ember/service";

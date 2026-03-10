@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 const {
   DECORATOR_PATHS,
   DECORATOR_PATH_OVERRIDES,

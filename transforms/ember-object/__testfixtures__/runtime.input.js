@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 import Runtime from 'common/runtime';
 import { alias } from '@ember/object/computed';
 import { computed } from '@ember/object';

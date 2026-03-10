@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 import classic from 'ember-classic-decorator';
 import EmberRouter from '@ember/routing/router';
 import config from './config/environment';

@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 import classic from 'ember-classic-decorator';
 import { off, unobserves } from '@ember-decorators/object';
 import { action, computed } from '@ember/object';

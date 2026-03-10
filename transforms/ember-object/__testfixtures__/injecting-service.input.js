@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 import Service, { service as injectService } from '@ember/service';
 
 export default Service.extend({

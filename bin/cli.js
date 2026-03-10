@@ -1,4 +1,8 @@
 #!/usr/bin/env node
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 'use strict';
 
 const { gatherTelemetryForUrl, analyzeEmberObject } = require('ember-codemods-telemetry-helpers');

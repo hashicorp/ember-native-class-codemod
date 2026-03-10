@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 import EmberRouter from '@ember/routing/router';
 import config from './config/environment';
 

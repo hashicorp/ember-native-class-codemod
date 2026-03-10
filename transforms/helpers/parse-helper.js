@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 const path = require('path');
 const camelCase = require('camelcase');
 const { getTelemetryFor } = require('ember-codemods-telemetry-helpers');

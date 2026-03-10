@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 module.exports = {
   test_page: 'tests/index.html?hidepassed',
   disable_watching: true,

@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 const LAYOUT_DECORATOR_NAME = 'layout';
 const LAYOUT_DECORATOR_LOCAL_NAME = 'templateLayout';
 

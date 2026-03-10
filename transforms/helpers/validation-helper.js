@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 const minimatch = require('minimatch');
 const { LIFECYCLE_HOOKS, get, getPropName } = require('./util');
 

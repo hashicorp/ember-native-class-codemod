@@ -1,3 +1,7 @@
+/**
+ * Copyright IBM Corp. 2018, 2022
+ */
+
 import Service from '@ember/service';
 import Controller from '@ember/controller';
 import Evented, { on } from '@ember/object/evented';
